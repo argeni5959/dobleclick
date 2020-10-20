@@ -40,10 +40,10 @@
     <h3 style="color: red;">Go to my free website to enjoy my live stream</h3>
     <br>
    
-    <!-- <a id="imagen-rotativo" href="#"></a>
+    <a id="imagen-rotativo" href="#"></a>
     <a href="#"> <div class="iji" id="capa">
       <img src="https://lh3.googleusercontent.com/a8-C7XLtit92flEkLnKCJOvB9E7Ea0wOn5J21TGuSvIEGs2Zcfsts-UOOpz3gDP3jCaElnNlo1_dVNsAZQ=s1600"></div> </a>
-     -->
+    
 
 <!--  
 <a id="imagen-rotativo" href="#"></a>
