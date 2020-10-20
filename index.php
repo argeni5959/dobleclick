@@ -48,7 +48,7 @@
 <!--  
 <a id="imagen-rotativo" href="#"></a>
 <a href="#"> <div class="iji" id="capa">
-  <img src="https://i.ibb.co/xm7MJgy/Screenshot-233.png"></div> </a> -->
+  <img src="https://i.ibb.co/p0cxRZS/Screenshot-237.png"></div> </a> -->
 
 
 
@@ -58,10 +58,10 @@
 <br>
  
 
-<a id="imagen-rotativo" href="#"></a>
+<!-- <a id="imagen-rotativo" href="#"></a>
   <a href="https://Tracking-all-traffic.offerdirecto.com?id=LGoRTd6m85&type=1&click_id={click_id}&sub1={sub1}&sub2={sub2}&sub3={sub3}&sub3={sub3}&source={source}"> <div class="iji" id="capa">
-    <img src="https://i.ibb.co/L0wJWsw/Screenshot-234.png"></div> </a>
-
+    <img src="https://i.ibb.co/2ZYjVTJ/Screenshot-240.png"></div> </a>
+ -->
 
 
 
@@ -73,10 +73,10 @@
 
  
 
-  <a id="imagen-rotativo" href="#"></a>
+<!--   <a id="imagen-rotativo" href="#"></a>
   <a href="https://redirect.adult.freelancercpa.net?id=528712938"> <div class="iji" id="capa">
     <img src="https://i.ibb.co/b2fd2Xw/Screenshot-235.png"></div> </a>
-
+ -->
 
 
   <br>
